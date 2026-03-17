@@ -2,7 +2,7 @@
 - 👀 I’m interested in reinforcement learning, neural networks, and robotics.
 - 💞️ I’m working at RGT company, Seoul Korea.
 - 📫 Feel free to reach me via  manh@rgt.kr
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: https://manh-rgt.github.io/portfolio/
 
 <!---
 Manh-RGT/Manh-RGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
